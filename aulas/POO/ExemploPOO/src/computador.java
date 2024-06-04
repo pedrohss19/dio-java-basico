@@ -5,6 +5,7 @@ import aplicativo.Telegram;
 
 public class computador {
     public static void main(String[] args) {
+        
         ServicoMensagem smi = null;
 
         String appEscolhido = "tlg";
